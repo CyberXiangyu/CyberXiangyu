@@ -1,38 +1,51 @@
+# 💻 Welcome to Xiangyu's Github Page!
+
 <div align="center">
+  <img src="./assets/XYZ_profile.GIF" width="520" height="auto" alt="Profile GIF" />
+</div>
 
-# Hi, I'm Xiangyu Zhang 👋
+## 💫 About Me
 
-<!-- Featured GIF Banner -->
-<img src="./assets/XYZ_profile.GIF" width="600" height="auto" alt="Xiangyu's Profile GIF" />
+I'm **Xiangyu Zhang**, a Ph.D. Candidate in Systems Design & Robotics at the **University of New Hampshire**.
 
-<br/><br/>
+My work focuses on the intersection of **Control Theory, Robotics, and Machine Learning**. I specialize in autonomous systems, model predictive control, and real-time optimization.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C++, C, MATLAB, SQL, R, JavaScript  
+**Robotics & Frameworks:** ROS, PyTorch, TensorFlow, Simulink, SolidWorks  
+**Tools & Platforms:** Linux, Git, GitHub, VS Code, LaTeX  
+**Foundations:** Autonomous Systems, Optimal Control, Reinforcement Learning, Systems Modeling  
+
+<br />
 
 <p align="center">
-  Ph.D. Candidate in Systems Design & Robotics at the University of New Hampshire[cite: 1]  
-  Working at the intersection of <b>Control Theory, Robotics, and Machine Learning</b>[cite: 1]
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,pytorch,tensorflow,ros,linux,git,github,vscode,latex&perline=12" alt="Tech stack icons" />
 </p>
 
-<!-- Tech Stack Icons -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,ros,c,linux,git,github,vscode" alt="Tech Stack" />
-  </a>
-</p>
+---
 
-<!-- Social & Contact Badges -->
-<p align="center">
-  <a href="mailto:xiangyu.zhang@unh.edu">
-    <img src="https://img.shields.io/badge/Email-xiangyu.zhang@unh.edu-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+## 🚀 Projects
+
+<!-- You can add your projects below in the future -->
+
+**[Project Name 1](https://github.com/CyberXiangyu)** · `Python` `ROS` `PyTorch`  
+Brief one-sentence description of the project, algorithm, or hardware setup.
+
+**[Project Name 2](https://github.com/CyberXiangyu)** · `C++` `Control Theory`  
+Brief one-sentence description of the project, algorithm, or hardware setup.
+
+---
+
+## 🌐 Connect
+
+<div align="center">
   <a href="https://www.linkedin.com/in/xiangyu-zhang-cyber/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-</p>
-
-<br/>
-
-<!-- Live GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=CyberXiangyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberXiangyu&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-
+  <a href="mailto:xiangyu.zhang@unh.edu">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
 </div>
