@@ -1,14 +1,18 @@
 # 💻 Welcome to Xiangyu's Github Page!
 
 <div align="center">
-  <img src="./assets/XYZ_profile.GIF" width="520" height="auto" alt="Profile GIF" />
+  <img src="./assets/XYZ_profile1.GIF" width="520" height="auto" alt="Profile GIF" />
 </div>
 
 ## 💫 About Me
 
-I'm **Xiangyu Zhang**, a Ph.D. Candidate in Systems Design & Robotics at the **University of New Hampshire**.
+* 🌱 I'm a Ph.D. Candidate in Systems Design & Robotics at the **University of New Hampshire**.
 
-My work focuses on the intersection of **Control Theory, Robotics, and Machine Learning**. I specialize in autonomous systems, model predictive control, and real-time optimization.
+* 🔭 My work focuses on the intersection of **Control Theory, Robotics, and Machine Learning**. I specialize in autonomous systems, model predictive control, and real-time optimization.
+
+* 💬 Ask me about ...
+  
+* ⚡ Fun fact: I retired from my NBA 🏀 dreams at age 12.
 
 ---
 
