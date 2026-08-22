@@ -1,7 +1,7 @@
 # 💻 Welcome to Xiangyu's Github Page!
 
 <div align="center">
-  <img src="./assets/XYZ_profile.GIF" width="100%" height="auto" alt="Profile GIF" />
+  <img src="./assets/XYZ_profile1.GIF" width="91%" height="auto" alt="Profile GIF" />
 </div>
 
 ## 💫 About Me
