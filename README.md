@@ -6,10 +6,10 @@
 
 <div align="center">
   <!-- Light Mode GIF -->
-  <img src="https://github.com/user-attachments/assets/4aab6266-857e-4228-b35f-87d3a0715873#gh-light-mode-only" height="330" alt="Banner Light" />
+  <img src="https://github.com/user-attachments/assets/4aab6266-857e-4228-b35f-87d3a0715873#gh-light-mode-only" height="333" alt="Banner Light" />
 
   <!-- Dark Mode GIF -->
-  <img src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1#gh-dark-mode-only" height="330" alt="Banner Dark" />
+  <img src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1#gh-dark-mode-only" height="333" alt="Banner Dark" />
 </div>
 
 ## 💫 About Me
