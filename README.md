@@ -10,7 +10,9 @@
 
 * 🔭 My work focuses on the intersection of **Control Theory, Robotics, and Machine Learning**. I specialize in autonomous systems, model predictive control, and real-time optimization.
 
-* 💬 Ask me about ...
+* 🎯 **Looking Ahead:** Actively seeking **Postdoc opportunities** to expand my research foundations, cultivate research taste, and collaborate on advanced robotics and learning-based control.
+
+* 💬 Open to discuss: Practices for research, scientific taste, high-standard problem selection, and AI robotics. 💡
   
 * ⚡ Fun fact: I retired from my NBA 🏀 dreams at age 12.
 
