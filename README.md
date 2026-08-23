@@ -1,8 +1,8 @@
 # 💻 Welcome to Xiangyu's Github Page!
 
-<div align="center">
-  <img src="./assets/XYZ_profile1.GIF" width="91%" height="auto" alt="Profile GIF" />
-</div>
+
+![MidnightOwl](https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1)
+
 
 ## 💫 About Me
 
@@ -13,6 +13,10 @@
 * 💬 Ask me about ...
   
 * ⚡ Fun fact: I retired from my NBA 🏀 dreams at age 12.
+
+<div align="center">
+  <img src="./assets/XYZ_profile1.GIF" width="91%" height="auto" alt="Profile GIF" />
+</div>
 
 ---
 
