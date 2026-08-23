@@ -17,7 +17,7 @@
 * ⚡ Fun fact: I retired from my NBA 🏀 dreams at age 12.
 
 <div align="center">
-  <img src="./assets/XYZ_profile1.GIF" width="91%" height="auto" alt="Profile GIF" />
+  <img src="./assets/XYZ_profile.GIF" width="91%" height="auto" alt="Profile GIF" />
 </div>
 
 ---
