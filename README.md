@@ -3,15 +3,12 @@
 %![Banner](https://github.com/user-attachments/assets/4aab6266-857e-4228-b35f-87d3a0715873#gh-light-mode-only)
 %![Banner](https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1#gh-dark-mode-only)
 -->
-
 <div align="center">
-  <!-- Light Mode GIF -->
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d#gh-light-mode-only" height="333" alt="Banner Light" />
-<!--
-  <img src="https://github.com/user-attachments/assets/4aab6266-857e-4228-b35f-87d3a0715873#gh-light-mode-only" height="333" alt="Banner Light" />
--->
-  <!-- Dark Mode GIF -->
-  <img src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1#gh-dark-mode-only" height="333" alt="Banner Dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" height="333" alt="Banner" />
+  </picture>
 </div>
 
 ## 💫 About Me
