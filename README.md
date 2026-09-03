@@ -11,6 +11,14 @@
   </picture>
 </div>
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=bvbr-3oM6lU" target="_blank">
+    <img src="https://img.youtube.com/vi/bvbr-3oM6lU/maxresdefault.jpg" width="380" alt="Enduring Images - Udi Harpaz" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  </a>
+  <br />
+  <sub>🎵 <strong>Enduring Images</strong> – Udi Harpaz · <em>Click image to listen on YouTube</em></sub>
+</div>
+
 ## 💫 About Me
 
 * 🌱 I'm a Ph.D. Candidate in Systems Design & Robotics at the **University of New Hampshire**.
