@@ -13,10 +13,8 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=bvbr-3oM6lU" target="_blank">
-    <img src="https://img.youtube.com/vi/bvbr-3oM6lU/maxresdefault.jpg" width="380" alt="Enduring Images - Udi Harpaz" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+    <img src="https://img.shields.io/badge/BGM-Enduring%20Images%20(Udi%20Harpaz)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Play BGM" />
   </a>
-  <br />
-  <sub>🎵 <strong>Enduring Images</strong> – Udi Harpaz · <em>Click image to listen on YouTube</em></sub>
 </div>
 
 ## 💫 About Me
