@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=bvbr-3oM6lU" target="_blank">
-    <img src="https://img.shields.io/badge/BGM-Enduring%20Images%20(Udi%20Harpaz)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Play BGM" />
+    <img src="https://img.shields.io/badge/BGM-Enduring%20Images-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Play BGM" />
   </a>
 </div>
 
